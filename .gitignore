@@ -26,3 +26,5 @@ identicon-*.tar
 /tmp/
 
 /.build
+
+/.idea
